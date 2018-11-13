@@ -1,0 +1,12 @@
+.date {
+  font-size: 8px;
+}
+.sideimg > img , .sideimg > a > img{
+  max-height: 200px;
+}
+.sideimg{
+  text-align: center;
+}
+.row{ 
+  padding: 5px;
+}
