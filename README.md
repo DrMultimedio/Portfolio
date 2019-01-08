@@ -1,1 +1,2 @@
-You can check the live portfolio on https://drmultimedio.github.io/Portfolio/.
+You can check the live portfolio on https://palgria.github.io/Portfolio/.
+Puedes ver el portfolio en https://palgria.github.io/Portfolio/.
